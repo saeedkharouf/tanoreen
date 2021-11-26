@@ -1,2 +1,0 @@
-# tanoreen
-index
